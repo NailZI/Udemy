@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+h1, h2, h3 {
+    font-family: 'times new roman', palatino linotype, athena, tahoma; 
+    font-size: 15pt; 
+    color: rgb(204,0,0); 
+    font-weight: bold; 
+    text-align: center; 
+    margin: 30 12
+}
+
+h2 {
+    font-size: 10pt;
+    color: rgba(4, 214, 50, 0.719);
+}
+
+h3 { 
+    font-size: 10pt; 
+    color: rgb(0,0,128);
+    text-align: center; 
+    margin: 50 12;
+}
+
+body {background-color: rgb(255, 255, 224)}
+
+.ital_text {font-style: italic;
+            font-weight: bold;
+            color: darkslategray}
+        
+img {
+    display: block;
+    margin: 0 auto;
+}
