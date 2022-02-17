@@ -1,35 +1,49 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
-h1, h2, h3 {
-    font-family: 'times new roman', palatino linotype, athena, tahoma; 
-    font-size: 15pt; 
-    color: rgb(204,0,0); 
-    font-weight: bold; 
-    text-align: center; 
-    margin: 30 12
+h1,
+h2,
+h3 {
+  font-family: "times new roman", palatino linotype, athena, tahoma;
+  font-size: 12pt;
+  color: rgb(204, 0, 0);
+  font-weight: bold;
+  text-align: center;
+  margin: 30 12;
 }
 
 h2 {
-    font-size: 10pt;
-    color: rgba(4, 214, 50, 0.719);
+  font-size: 15pt;
+  color: rgba(9, 1, 46, 0.849);
 }
 
-h3 { 
-    font-size: 10pt; 
-    color: rgb(0,0,128);
-    text-align: center; 
-    margin: 50 12;
+h3 {
+  font-size: 15pt;
+  color: rgb(0, 0, 128);
+  text-align: center;
+  margin: 50 12;
 }
 
-body {background-color: rgb(255, 255, 224)}
+body {
+  background-color: rgb(231, 208, 171);
+  font-size: 10;
+}
 
-.ital_text {font-style: italic;
-            font-weight: bold;
-            color: darkslategray}
-        
+.ital_text {
+  font-style: italic;
+  font-weight: bold;
+  color: darkslategray;
+}
+
 img {
-    display: block;
-    margin: 0 auto;
+  display: block;
+  margin: 0 auto;
+  border: solid rgba(53, 16, 16, 0.692) 2px;
+}
+
+hr {
+    align: center;
+    width: 75%;
+    size: 3;
 }
