@@ -142,7 +142,7 @@ nav {
     min-height: 851px;
 }
 
-.reasons .reasons_logo {
+.label {
     display: block;
     margin: 0 auto;
     margin-top: 22px;
@@ -156,7 +156,7 @@ nav {
     color: #FFFFFF;
 }
 
-.reasons .reasons_text {
+.title {
     margin-top: 33px;
     font-weight: bold;
     font-size: 38px;
